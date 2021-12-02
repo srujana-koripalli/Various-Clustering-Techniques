@@ -7,7 +7,10 @@ Various-Clustering-Techniques
 
  Hierarchical clustering
  - Hierarchical clustering, also known as hierarchical cluster analysis, is an algorithm that groups similar objects into groups called clusters
+
+Gaussian mixture model
+- A Gaussian mixture model is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters.
  
  DB Scan clustering
  - DBSCAN algorithm is Density-based Spatial Clustering of Applications with Noise. Well, there are three particular words that we need to focus on from the name. They are density, clustering, and noise.
- - 
+ 
